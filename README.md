@@ -17,7 +17,7 @@
         <td width="50%">
           <h3 align="center">Who's That Pokemon!</h3>
           <p align="center">
-            <a href="https://www.whosthatpokemonsp.netlify.app" target="_blank"> <img src="https://github.com/snowsneakers/snowsneakers/blob/main/updatedgif.gif?raw=true" alt="project example"/> </a>
+            <a href="https://whosthatpokemonsp.netlify.app/" target="_blank"> <img src="https://github.com/snowsneakers/snowsneakers/blob/main/updatedgif.gif?raw=true" alt="project example"/> </a>
 		<p align="center"><strong>JavaScript, CSS3, HTML5</strong>
             <p align="center">
              Test your Pokemon knowledge!
