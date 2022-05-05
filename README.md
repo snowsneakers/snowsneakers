@@ -4,8 +4,8 @@
 - 🌱 Currently learning full stack JavaScript
 - 👯 Looking to collaborate on open source
 - 🤓 Sports and Pokemon nerd
-- Check out my <a href="https://www.patricksnowden.com" target="_blank">portfolio</a>
-- Connect with me via<a href="https://twitter.com/snowsneakers_" target="_blank">Twitter</a>
+- ❤️ Check out my <a href="https://www.patricksnowden.com" target="_blank">portfolio</a>
+- 🐓 Connect with me on <a href="https://twitter.com/snowsneakers_" target="_blank">Twitter</a>
 
 
 <h2 align="left" color="white">Projects</h2>
