@@ -27,7 +27,7 @@
 	<td width="50%">
           <h3 align="center">COVID-19 Stats</h3>
           <p align="center">
-            <a href="https://www.covidnineteenstats.netlify.app" target="_blank"> <img src="https://github.com/snowsneakers/snowsneakers/blob/main/covidstats.gif?raw=true" alt="project example"/> </a>
+            <a href="https://covidnineteenstats.netlify.app/" target="_blank"> <img src="https://github.com/snowsneakers/snowsneakers/blob/main/covidstats.gif?raw=true" alt="project example"/> </a>
 		  <p align="center"><strong>JavaScript, CSS3, HTML5, Bootstrap</strong>
             <p align="center">
              Veiw your country's COVID-19 cases.
