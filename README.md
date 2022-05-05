@@ -1,12 +1,11 @@
-<h3 align="center">👋 Hi! I'm Pat</h3>
-<p align="center">
-  <a href="https://www.patricksnowden.com" target="_blank">Website</a> •
-  <a href="https://twitter.com/snowsneakers_" target="_blank">Twitter</a>
-</p>
+<h3 align="left">👋 Hi! I'm Pat</h3>
+
 
 - 🌱 Currently learning full stack JavaScript
 - 👯 Looking to collaborate on open source
 - 🤓 Sports and Pokemon nerd
+- Check out my <a href="https://www.patricksnowden.com" target="_blank">portfolio</a>
+- Connect with me via<a href="https://twitter.com/snowsneakers_" target="_blank">Twitter</a>
 
 
 <h2 align="left" color="white">Projects</h2>
