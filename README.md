@@ -1,28 +1,31 @@
-<h1 align="center">👋 Hi, I’m Pat</h1>
-		<h3 align="center">Full Stack Software Engineer</h3>
+<h3 align="center">👋 Hi! I'm Pat</h3>
+<p align="center">
+  <a href="https://www.patricksnowden.com">Website</a> •
+  <a href="https://twitter.com/snowsneakers_">Twitter</a>
+</p>
 
-    	- 🌱 I’m currently learning full stack JavaScript
-    	- 👔 Check out my <a href="https://www.patricksnowden.com">portfolio</a>
+<div align="center">
+<table>
+      <tr>
+        <td width="50%">
+          <h3 align="center">Who's That Pokemon!</h3>
+          <p align="center">
+            <a href="" target="_blank" <img src="https://github.com/snowsneakers/snowsneakers/blob/main/updatedgif.gif?raw=true" alt="project example"/> </a>
+            <p align="center">
+             Test your Pokemon knowledge!
+            </p>
+          </p>
+        </td>
+	<td width="50%">
+          <h3 align="center">COVID-19 Stats</h3>
+          <p align="center">
+            <a href="" target="_blank" <img src="https://github.com/snowsneakers/snowsneakers/blob/main/covidstats.gif?raw=true" alt="project example"/> </a>
+            <p align="center">
+             Veiw your country's COVID-19 cases.
+            </p>
+          </p>
+        </td>
+</table>
+</div>
 
-    	<h2>Projects</h2>
-    		<table>
-    			<tr>
-    				<td width="50%">
-    					<h3 align="center">Who's That Pokemon!</h2>
-    						<a href='https://whosthatpokemonsp.netlify.app/'>
-    							<img src="" alt="Pokemon guessing demo" height="100%"/>
-    						</a>
-    						<br>
-    						<br>
-    						<p>
-    							<a href="https://whosthatpokemonsp.netlify.app/" target="_blank">
-    								<img src="/assets/updatedgif.gif"/>
-    							</a>
-    							<a href="https://github.com/snowsneakers/Whos-That-Pokemon" target="_blank">
-    								<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
-    							</a>
-    						</p>
-    						<p><strong>JavaScript, CSS3, HTML5</strong> - Test your Pokemon knowledge with this game!</p>
-    				</td>
-    			</tr>
-    		</table>
+  
