@@ -14,7 +14,7 @@
 <table>
       <tr>
         <td width="50%">
-          <h3 align="center">Who's That Pokemon!</h3>
+          <h3 align="center">My portfolio</h3>
           <p align="center">
             <a href="https://www.patricksnowden.com" target="_blank"> <img src="https://github.com/snowsneakers/porfolio/blob/main/assets/portfoliogif.gif?raw=true" alt="project example"/> </a>
 		<p align="center"><strong>JavaScript, CSS3, HTML5</strong>
@@ -30,6 +30,16 @@
 		<p align="center"><strong>JavaScript, CSS3, HTML5</strong>
             <p align="center">
              Test your Pokemon knowledge!
+            </p>
+          </p>
+        </td>
+	<td width="50%">
+          <h3 align="center">NASA APOD</h3>
+          <p align="center">
+            <a href="https://nasapicofdaysp.netlify.app/" target="_blank"> <img src="https://github.com/snowsneakers/nasa-apod/blob/main/assets/nasaapi.gif?raw=true" alt="project example"/> </a>
+		  <p align="center"><strong>JavaScript, CSS3, HTML5, Bootstrap</strong>
+            <p align="center">
+             Veiw NASA pic of the day
             </p>
           </p>
         </td>
