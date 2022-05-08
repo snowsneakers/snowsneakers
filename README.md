@@ -16,6 +16,16 @@
         <td width="50%">
           <h3 align="center">Who's That Pokemon!</h3>
           <p align="center">
+            <a href="https://www.patricksnowden.com" target="_blank"> <img src="https://github.com/snowsneakers/porfolio/blob/main/assets/portfoliogif.gif?raw=true" alt="project example"/> </a>
+		<p align="center"><strong>JavaScript, CSS3, HTML5</strong>
+            <p align="center">
+		Visit my <a href="https://www.patricksnowden.com" target="_blank">portfolio</a>
+            </p>
+          </p>
+        </td>
+	<td width="50%">
+          <h3 align="center">Who's That Pokemon!</h3>
+          <p align="center">
             <a href="https://whosthatpokemonsp.netlify.app/" target="_blank"> <img src="https://github.com/snowsneakers/snowsneakers/blob/main/updatedgif.gif?raw=true" alt="project example"/> </a>
 		<p align="center"><strong>JavaScript, CSS3, HTML5</strong>
             <p align="center">
