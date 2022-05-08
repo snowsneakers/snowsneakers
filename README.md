@@ -33,13 +33,15 @@
             </p>
           </p>
         </td>
+    </tr>
+    <tr>
 	<td width="50%">
           <h3 align="center">NASA APOD</h3>
           <p align="center">
             <a href="https://nasapicofdaysp.netlify.app/" target="_blank"> <img src="https://github.com/snowsneakers/nasa-apod/blob/main/assets/nasaapi.gif?raw=true" alt="project example"/> </a>
-		  <p align="center"><strong>JavaScript, CSS3, HTML5, Bootstrap</strong>
+		  <p align="center"><strong>JavaScript, CSS3, HTML5</strong>
             <p align="center">
-             Veiw NASA pic of the day
+             Veiw NASA's pic of the day
             </p>
           </p>
         </td>
@@ -53,7 +55,6 @@
             </p>
           </p>
         </td>
+        </tr>
 </table>
 </div>
-
-  
