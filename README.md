@@ -39,7 +39,7 @@
 	<td width="50%">
           <h3 align="center">NASA APOD</h3>
           <p align="center">
-            <a href="https://nasapicofdaysp.netlify.app/" target="_blank"> <img src="https://github.com/snowsneakers/nasa-apod/blob/main/assets/nasaapi.gif?raw=true" alt="project example"/> </a>
+            <img src="https://github.com/snowsneakers/nasa-apod/blob/main/assets/nasaapi.gif?raw=true" alt="project example"/>
 		  <a href="https://github.com/snowsneakers/nasa-apod" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="https://nasapicofdaysp.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
@@ -50,7 +50,7 @@
 	<td width="50%">
           <h3 align="center">Poke Prices</h3>
           <p align="center">
-            <a href="https://covidnineteenstats.netlify.app/" target="_blank"> <img src="https://github.com/snowsneakers/snowsneakers/blob/main/covidstats.gif?raw=true" alt="project example"/> </a>
+           <img src="https://github.com/snowsneakers/pokemon-prices/blob/main/assets/pokeprices.gif?raw=true" alt="project example"/>
 		   <a href="https://github.com/snowsneakers/pokemon-prices" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="https://pokemonprices.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
