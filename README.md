@@ -16,8 +16,9 @@
         <td width="50%">
           <h3 align="center">My portfolio</h3>
           <p align="center">
-            <a href="https://www.patricksnowden.com" target="_blank"> <img src="https://github.com/snowsneakers/porfolio/blob/main/assets/portfoliogif.gif?raw=true" alt="project example"/> </a>
-		<p align="center"><strong>JavaScript, CSS3, HTML5</strong>
+             <img src="https://github.com/snowsneakers/porfolio/blob/main/assets/portfoliogif.gif?raw=true" alt="project example"/>
+		<a href="https://github.com/snowsneakers/porfolio" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://www.patricksnowden.com/" target="_blank"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
 		Visit my <a href="https://www.patricksnowden.com" target="_blank">portfolio</a>
             </p>
