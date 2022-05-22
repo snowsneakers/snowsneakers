@@ -1,10 +1,9 @@
 <h3 align="left">👋 Hi! I'm Pat</h3>
 
 
-- 🌱 Currently learning full stack JavaScript
-- 👯 Looking to collaborate on open source
+- 🌱 Currently learning node.js
 - 🤓 Sports and Pokemon nerd
-- ❤️ Check out my <a href="https://www.patricksnowden.com" target="_blank">portfolio</a>
+- ⚡ EV enthusiast
 - 🐓 Connect with me on <a href="https://twitter.com/snowsneakers_" target="_blank">Twitter</a>
 
 
@@ -28,7 +27,8 @@
           <h3 align="center">Who's That Pokemon!</h3>
           <p align="center">
             <a href="https://whosthatpokemonsp.netlify.app/" target="_blank"> <img src="https://github.com/snowsneakers/snowsneakers/blob/main/updatedgif.gif?raw=true" alt="project example"/> </a>
-		<p align="center"><strong>JavaScript, CSS3, HTML5</strong>
+		<a href="https://github.com/snowsneakers/Whos-That-Pokemon" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://whosthatpokemonsp.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
              Test your Pokemon knowledge!
             </p>
@@ -40,19 +40,21 @@
           <h3 align="center">NASA APOD</h3>
           <p align="center">
             <a href="https://nasapicofdaysp.netlify.app/" target="_blank"> <img src="https://github.com/snowsneakers/nasa-apod/blob/main/assets/nasaapi.gif?raw=true" alt="project example"/> </a>
-		  <p align="center"><strong>JavaScript, CSS3, HTML5</strong>
+		  <a href="https://github.com/snowsneakers/nasa-apod" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://nasapicofdaysp.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
              Veiw NASA's pic of the day
             </p>
           </p>
         </td>
 	<td width="50%">
-          <h3 align="center">COVID-19 Stats</h3>
+          <h3 align="center">Poke Prices</h3>
           <p align="center">
             <a href="https://covidnineteenstats.netlify.app/" target="_blank"> <img src="https://github.com/snowsneakers/snowsneakers/blob/main/covidstats.gif?raw=true" alt="project example"/> </a>
-		  <p align="center"><strong>JavaScript, CSS3, HTML5, Bootstrap</strong>
+		   <a href="https://github.com/snowsneakers/pokemon-prices" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://pokemonprices.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
-             Veiw your country's COVID-19 cases.
+             See how much those pokemon cards are worth!
             </p>
           </p>
         </td>
