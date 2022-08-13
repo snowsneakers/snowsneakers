@@ -17,7 +17,7 @@
           <h3 align="center">My Portfolio</h3>
           <p align="center">
              <a href="https://www.patricksnowden.com/" target="_blank" ref="noreferrer"> <img src="https://github.com/snowsneakers/read-me-assets/blob/main/portfolio-gif.gif?raw=true" alt="project example"/> </a>
-		<a href="https://github.com/snowsneakers/another-porfolio" target="_blank ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<a href="https://github.com/snowsneakers/another-portfolio" target="_blank ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
 		<a href="https://www.patricksnowden.com/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
 		Visit my <a href="https://www.patricksnowden.com" target="_blank" ref="noreferrer">portfolio</a>
