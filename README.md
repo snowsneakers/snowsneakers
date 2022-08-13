@@ -1,4 +1,5 @@
-<h3 align="left">👋 Hi! I'm Pat</h3>
+<img src="https://github.com/snowsneakers/read-me-assets/blob/main/banner-right.png?raw=true" alt="banner"/>
+
 
 
 - ⏳ Working on some MERN stack projects
