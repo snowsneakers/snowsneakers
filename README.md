@@ -1,4 +1,4 @@
-<img src="https://github.com/snowsneakers/read-me-assets/blob/main/banner-right.png?raw=true" alt="banner"/>
+<img src="https://github.com/snowsneakers/read-me-assets/blob/main/memoji-banner.png?raw=true" alt="banner"/>
 
 
 
