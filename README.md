@@ -1,5 +1,3 @@
-<img src="https://github.com/snowsneakers/read-me-assets/blob/main/memoji-banner.png?raw=true" alt="banner"/>
-
 <details>
 <summary>About Me</summary>
 <br>
