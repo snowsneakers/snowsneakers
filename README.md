@@ -1,3 +1,4 @@
+[![Frame-7.png](https://i.postimg.cc/Vvxc0k5V/Frame-7.png)](https://postimg.cc/WqwyQjGG)
 ```typescript
 import pat from 'snowsneakers';
 
